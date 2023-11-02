@@ -1,7 +1,93 @@
 @import url('https://fonts.googleapis.com/css2?family=Limelight&family=Montserrat&family=Satisfy&family=Vollkorn&display=swap');
 
+/* body starts here */
 body {
     margin: 0;
     padding: 0;
     background: #d6d1c2;
 }
+/* body finishes here */
+
+/* Header and navigation links start here */
+
+#header {
+    background-color: #1a1e02;
+    margin-top: -23px;
+}
+
+.heading {
+    text-align: center;
+    font-family: "LimeLight", sans-serif;
+    letter-spacing: 1px;
+    font-size: 210%;
+    text-transform: uppercase;
+    color: #F7f7f7;
+    list-style: none;
+    height: 0;
+    padding-bottom: 10px;
+    padding-top: 30px;
+}
+
+.navbar ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    color: #403D2A;
+}
+
+.navbar li {
+    display: inline-block;
+}
+
+.navbar a {
+    font-family: "Montserrat", sans-serif;
+    text-decoration: none;
+    width: 100px;
+    display: block;
+    padding: 25px 20px;
+    font-size: 13px;
+    color: #F7f7f7;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.navbar a:hover{
+    font-size: 14px;
+}
+
+/* Header and navigation links finish here */
+
+/* Home Page image, About Us and Care Instructions starts here */
+#main-homepage-img {
+    display: block;
+    width: 100%;
+}
+
+.hp-text {
+    text-align: center;
+    margin-left: 80px;
+    margin-right: 80px;
+    font-style: bitter, sans-serif;
+}
+
+.container2 {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.p-text {
+    font-family: "Vollkorn", sans-serif;
+    font-size: 105%;
+    color: #1a1e02;
+}
+
+.sub-text {
+    font-family: "Satisfy", sans-serif;
+    font-size: 180%;
+    color: #403D2A;
+}
+
+/* Home Page image, About Us and Care Instructions finishes here */
+
