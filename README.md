@@ -236,7 +236,6 @@ To deploy this page to GitHub Pages from its GitHub repository, the following st
 ## Credits 
 - I would like to thank Emma Charles-Wilson for the help on some of the codes and design bugs and also the bug fix for the youtube video.
 - I would like to thank Harry Dhillon for his expert skills, helping with the larger issues faced within this Milestone Project, showing patience and teaching along the way.
-- I would like to that Code Institute for the extensive and descriptive material that has helped me complete my first project.
 - I would like to thank my friends and family for providing insite into how and if the website would work for them and if the content is clear.
 
 ### Content
@@ -251,6 +250,13 @@ To deploy this page to GitHub Pages from its GitHub repository, the following st
 The developer consulted multiple sites in order to better understand the code they were trying to implement. For code that was copied and edited, the developer made sure to reference this with the code. The following sites were used on a more regular basis:
 - [W3Schools](https://www.w3schools.com/ "Link to W3Schools page")
 - [Dileitte](https://8000-dilsv-dileitte-m4sl1micfeh.ws-eu105.gitpod.io/index.html "Link to Discover page")
-- [W3C Markup Validation Service] (https://validator.w3.org/#validate_by_input)
+- [W3C Markup Validation Service] (https://validator.w3.org/#validate_by_input "Link to W3C Validator page)
 
+## Acknowledgements
 
+- I would like to thank my friends and family and peers for their valued opinions and critic during the process of design and development.
+- I would like to thank my Code Institute for their invaluable help and guidance throughout the process.
+
+[Back to top ⇧](#Dileitte)
+
+***
