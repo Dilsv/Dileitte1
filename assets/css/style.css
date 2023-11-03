@@ -75,7 +75,7 @@ body {
     font-style: Volkorn, sans-serif;
 }
 
-.container2 {
+.youtube-container {
     display: flex;
     justify-content: center;
     margin-top: 10px;
@@ -427,6 +427,12 @@ footer {
   }
   
   /* Responsive layout - makes a two column-layout instead of four columns */
+  @media screen and (max-width: 1200px) {
+    .column {
+        padding: 0 20px;
+    }
+  }
+
   @media screen and (max-width: 800px) {
     .column {
       flex: 50%;
@@ -444,6 +450,15 @@ footer {
 
     .fcf-body {
         max-width: 80%;
+    }
+
+    .column {
+        padding: 0 0px;
+    }
+
+    .youtube-container iframe {
+        height: 300px;
+        width: 400px;
     }
   }
   
