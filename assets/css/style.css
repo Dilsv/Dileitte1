@@ -69,7 +69,7 @@ body {
     text-align: center;
     margin-left: 80px;
     margin-right: 80px;
-    font-style: Volkorn, sans-serif;
+    
 }
 
 .youtube-container {
@@ -305,6 +305,8 @@ input[type="button"].fcf-btn-block {
     display: table;
     clear: both;
 }
+
+/* Sumit page */
 
 /* Event page */
 
