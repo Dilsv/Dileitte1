@@ -43,3 +43,4 @@ The main requirements were to make a responsive and static website with a minimu
 ### Development Planes
 
 In order to create a comprehensive and informative website, the developer researched what similar websites included, asked people with experience in botanics what would be helpful and looked into personal experience. 
+
