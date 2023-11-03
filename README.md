@@ -175,8 +175,8 @@ Each page of the website features a consistent responsive navigational system:
 - **Product Information and pricing** 
      - **Feature** - Set up a section beneath the flower images that provides pricing and the unique names of the bouquets.
      - **Reasons for not featuring in this release** - Need a detailed description for each flower featured in the bouquets as well as average pricing for specific styles.
-- **Events Page**
-     - **Feature** - Set up a page that offers a list of events the business caters for.
+- **Events Page Contents**
+     - **Feature** - Set up a page that offers a wider range of events the website caters so users can get a better understnading of the services offered.
      - **Reasons for not featuring in this release** - Need a lot more visual aid to show examples of events and flower assortments for each event offered. To do this the developer needed to source pictures of multiple event photos from porfessional websites to add.
 
      [Back to top ⇧](#Dileitte)
@@ -199,6 +199,8 @@ The developer ran into a number of issues during the development of the websites
 **Repository and Workspaces** - The developer had set up their workspaces incorrectly, only realising last minute as Gitpod began asking for billing information. The developer contacted tutor support and they helped carry the workspaces over however, due to the codes not being pushed even though they were committed, the repository didnt reflect the pages and files. To tackle this, the developer had to rewrite the code in parts and make sure to commit and push regularly to make it reflect into the new repository.
 
 **Readme Files** - Upon writing the read.me file, the developer started editing the read.me through the repository, which caused conflict between the workspace and repository as it didnt allow to git push the work done. This was fixed with the help of a mentor.
+
+**Responsiveness** - The devloper has managed to make the website responsive for smaller and larger screens however, upon minimising and expanding the screen the pictures become skewed and disorientated.
 
 [Back to top ⇧](#Dileitte)
 
