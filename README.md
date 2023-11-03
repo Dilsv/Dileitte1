@@ -237,4 +237,20 @@ To deploy this page to GitHub Pages from its GitHub repository, the following st
 - I would like to thank Emma Charles-Wilson for the help on some of the codes and design bugs and also the bug fix for the youtube video.
 - I would like to thank Harry Dhillon for his expert skills, helping with the larger issues faced within this Milestone Project, showing patience and teaching along the way.
 - I would like to that Code Institute for the extensive and descriptive material that has helped me complete my first project.
-- I would like to thank my friends and family for providing insite into how and if the website would work for them and if the content is clear.  
+- I would like to thank my friends and family for providing insite into how and if the website would work for them and if the content is clear.
+
+### Content
+- The text used in the About Us and Care Instructions section on the Main Page have been sourced from the developer.
+- Photos in the Flowers Suggestion section were sourced from (https://www.moysesflowers.co.uk/) and (https://www.google.com)
+
+### Media
+- How to make fresh flowers last longer video was sourced from (https://www.youtube.com/watch?v=4dx9AKW_P88)
+- All images from the flowers section images have been sourced from (https://www.moysesflowers.co.uk/) and all other images have been sourced from (https://www.google.com)
+
+### Code 
+The developer consulted multiple sites in order to better understand the code they were trying to implement. For code that was copied and edited, the developer made sure to reference this with the code. The following sites were used on a more regular basis:
+- [W3Schools](https://www.w3schools.com/ "Link to W3Schools page")
+- [Dileitte](https://8000-dilsv-dileitte-m4sl1micfeh.ws-eu105.gitpod.io/index.html "Link to Discover page")
+- [W3C Markup Validation Service] (https://validator.w3.org/#validate_by_input)
+
+
