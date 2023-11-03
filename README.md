@@ -215,3 +215,14 @@ The developer ran into a number of issues during the development of the websites
 
 This project was developed using [Gitpod](https://www.gitpod.io/ "Link to Gitpod site"), committed to git and pushed to GitHub using the computer terminal.
 
+### Deploying on GitHub Pages
+To deploy this page to GitHub Pages from its GitHub repository, the following steps were taken:
+
+1. Log into [GitHub](https://github.com/login "Link to GitHub login page") or [create an account](https://github.com/join "Link to GitHub create account page").
+2. Locate the [GitHub Repository](https://dilsv.github.io/Dileitte1/ "Link to GitHub Repo").
+3. At the top of the repository, select Settings from the menu items.
+4. In the Settings page on the left click the "Pages" section.
+5. Under "Source" click the drop-down menu labelled "None" and select "Main Branch".
+6. Upon selection, click the save button, the page will automatically refresh meaning that the website is now deployed.
+7. Sometimes it may not show the deploy therefore, click "Pages" section again to retrieve the deployed link; this will be visible on the top of the page.
+8. At the time of submitting this Milestone project the Development Branch and Main Branch are identical.
