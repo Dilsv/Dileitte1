@@ -308,6 +308,10 @@ input[type="button"].fcf-btn-block {
 
 /* Sumit page */
 
+#tickmark {
+    text-align: center;
+}
+
 /* Event page */
 
 .container {
