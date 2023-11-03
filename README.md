@@ -1,5 +1,7 @@
 # Dileitte - A milstone project
 
+[Mock Up Image] (assets/readme-files/mock-up.pmg)
+
 [View the live project here](https://dilsv.github.io/Dileitte1/)
 
 ## Table of contents
