@@ -224,8 +224,9 @@ The developer ran into a number of issues during the development of the websites
 
 [Back to top ⇧](#Dileitte)
 
-## Testing 
-----------------------------
+## Testing
+
+Testing information can be found in a separate testing [file](TESTING.md "Link to testing file")
 
 ## Deployment
 
@@ -244,10 +245,39 @@ To deploy this page to GitHub Pages from its GitHub repository, the following st
 8. At the time of submitting this Milestone project the Development Branch and Main Branch are identical.
 
 ### Forking the Repository
------------------------------------
+By forking the GitHub Repository we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original repository by using the following steps...
+
+1. Log into [GitHub](https://github.com/login "Link to GitHub login page") or [create an account](https://github.com/join "Link to GitHub create account page").
+2. Locate the [GitHub Repository](https://dilsv.github.io/Dileitte1/ "Link to GitHub Repo").
+3. At the top of the repository, on the right side of the page, select "Fork"
+4. You should now have a copy of the original repository in your GitHub account.
 
 ### Creating a Clone
-----------------------------------
+How to run this project locally:
+1. Install the [GitPod Browser](https://www.gitpod.io/docs/browser-extension/ "Link to Gitpod Browser extension download") Extension for Chrome.
+2. After installation, restart the browser.
+3. Log into [GitHub](https://github.com/login "Link to GitHub login page") or [create an account](https://github.com/join "Link to GitHub create account page").
+2. Locate the [GitHub Repository](https://dilsv.github.io/Dileitte1/ "Link to GitHub Repo").
+5. Click the green "GitPod" button in the top right corner of the repository.
+This will trigger a new gitPod workspace to be created from the code in github where you can work locally.
+
+How to run this project within a local IDE, such as VSCode:
+
+1. Log into [GitHub](https://github.com/login "Link to GitHub login page") or [create an account](https://github.com/join "Link to GitHub create account page").
+2. Locate the [GitHub Repository](https://dilsv.github.io/Dileitte1/ "Link to GitHub Repo").
+3. Under the repository name, click "Clone or download".
+4. In the Clone with HTTPs section, copy the clone URL for the repository.
+5. In your local IDE open the terminal.
+6. Change the current working directory to the location where you want the cloned directory to be made.
+7. Type 'git clone', and then paste the URL you copied in Step 3.
+```
+git clone https://github.com/USERNAME/REPOSITORY
+```
+8. Press Enter. Your local clone will be created.
+
+Further reading and troubleshooting on cloning a repository from GitHub [here](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository "Link to GitHub troubleshooting")
+
+[Back to top ⇧](#Dileitte)
 
 ## Credits 
 - I would like to thank Emma Charles-Wilson for the help on some of the codes and design bugs and also the bug fix for the youtube video.
