@@ -1,6 +1,6 @@
-# Dileitte - A milstone project
+# Dileitte - A milstone Project
 
-[Mock Up Image] (assets/readme-files/mock-up.pmg)
+![Dileitte Mockup Images](assets/readme-files/mock-up.png)
 
 [View the live project here](https://dilsv.github.io/Dileitte1/)
 
