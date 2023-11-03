@@ -100,3 +100,15 @@ The information architecture was organized in a **hierarchial tree structure** i
 
 ! [Sitemap] (assets/readme-files/tree-structure.png)
 
+#### Skeleton 
+Wireframe mockups were created in a [Balsamiq] (https://balsamiq.com/wireframes/) with providing a positive user experience in mind:
+
+Home Page:
+! [Home Page wireframe] (assets/readme-files/wireframe-home.png "Home Page wireframe")
+
+Bio Page:
+! [Flowers page] (assets/readme-files/wireframe-flowers.png "Flowers Page wireframe)
+
+Press Kit Page:
+! [Contact Us Page] (assets/readme-files/wireframe-contact-us.png)
+
