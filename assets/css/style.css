@@ -15,12 +15,17 @@ body {
     margin-top: -23px;
 }
 
+#title {
+    text-decoration: none;
+}
+
 .heading {
     text-align: center;
     font-family: "LimeLight", sans-serif;
     letter-spacing: 1px;
     font-size: 210%;
     text-transform: uppercase;
+    text-decoration: none;
     color: #F7f7f7;
     list-style: none;
     height: 0;
