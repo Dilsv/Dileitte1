@@ -112,3 +112,47 @@ Bio Page:
 Press Kit Page:
 ! [Contact Us Page] (assets/readme-files/wireframe-contact-us.png)
 
+### Design
+
+#### Colour Scheme
+The main colours used throughout the website are Eerie Black, Beaver with accents of Bone and Seasalt. 
+
+These chosen colours were because they are typically found in nature, and are complementary to the natural colours of flowers and plants. They also provoke feelings of self-care and serenity.  
+
+#### Typography
+The pairing of the fonts [Volkorn](https://fonts.google.com/specimen/Volkorn "Link to Volkorn Google Font") and [Montserrat](https://fonts.google.com/specimen/Montserrat "Link to Montserrat Google Font") is used throughout the website with Sans Serif as the fallback font in case of import failure. 
+
+For features that needed to be highlighted, such as the logo text and subheadings, the font [Limelight](https://fonts.google.com/specimen/Limelight "Link to Limelight Google Font") and [Satisfy](http://fots.google.come/specimen/Satisfy "Link to Satisfy Google Font") was used, with Sans Serif as the fallback.
+
+#### Imagery
+The selected imagery is modern and cohesively aesthetic, reflecting the style and feel of the website. It is also supporting of any informative text presented. 
+
+The imagery is catching and visually represents the theme of the website.
+
+All imagery provides alternative text to be used in the event that the element cannot be rendered.
+
+[Back to top ⇧](#Dileitte)
+
+## Features
+
+### Design Features
+Each page of the website features a consistent responsive navigational system:
+- The **Header** contains a conventionally placed **logo** in the top center of the page (whereby by clicking this will redirect users back to the home page) and **navigation bar** in the top center of the page.
+- The **Footer** contains the appropriate **social media icons**, linking users to the appropriate social media site. On smaller screens the Footer decreases in size relative to the other elements on the page.
+- On smaller screens, the navigation bar shrinks in size and remains in the center of the webpage.
+
+### Testing 
+
+
+### Existing Features
+- **Header Logo** - Appearing on every page for brand recognition. Clicking the logo will return the users to the home page, as expected.
+- **Header Navigation Bar** - Appearing on every page for a consistently easy and intuitive navigable system.
+- **Social Icons** - Appearing on every page in the footer, the icons are appropriate representations of the Social Media platforms, linking to preferred social media platform. 
+- **Contact Form** - A contact form is used on the Contact us page, in order to provide a point of contact for the user. The form is not valid and on pressing submit the form will reset.
+
+- **[Home Page](index.html "Home Page")** - Provide an eyecatching home image, with relevant information on who the website host is and what the website is about. 
+- **[Flowers Page](flowers.html "Flowers Page")** - Providing imagery on the different asortments and protection availible for this type of interest.
+- **[Contact Us Page](contact.html "Contact Us Page")** - Providing a simple form to allow the user to contact the website host.
+
+### Features to include in the future
+
