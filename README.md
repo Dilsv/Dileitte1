@@ -164,3 +164,54 @@ Each page of the website features a consistent responsive navigational system:
 - **Events Page**
      - **Feature** - Set up a page that offers a list of events the business caters for.
      - **Reasons for not featuring in this release** - Need a lot more visual aid to show examples of events and flower assortments for each event offered. To do this the developer needed to source pictures of multiple event photos from porfessional websites to add.
+
+     [Back to top ⇧](#Dileitte)
+
+     ## Issues and Bugs 
+The developer ran into a number of issues during the development of the websites, with the noteworthy ones listed below, along with solutions or ideas to implement in the future.
+
+**Images Bug** - An inconsistency was detected later on with the images. On the page view some images were larger than others and weren't inline with eachother, making it less consistent. This wasn't solved as the images were different sizes by default. The solution to this is to keep images used the same size throughout to avoid incosistency.
+
+**Social Links footer bug** - A bug was detected when adding the footer to the contact us page anf flowers page. The footer (social media icons) were inside the contact us form. This was solved by finding that there was a missing </div> that was causing the footer to be picked up in the body of the contact us form and adding </div> in the appropriate place. 
+
+**Footer Issue on all pages** - A bug was detected when implementing the footer to be used for all pages. When looking on the ports the footer look disorientated and dimentions didn't reflect the codes in flowers.html and contact.html. [A `media query` was added however, it didnt give the desired result therefore the developer removed the footer colour in order to fix the bug]
+
+**Contact Us form bug** - A bug was detected when testing the contact us form. You were able to put in one letter on the name field and you were also able to adjust the size of the comment box. This was fixed by adding a minimum character of 5 to the input fields giving the comment section a `resize: none;`.
+
+**Media and Audio bug** - Upon uploading the youtube video the developer couldn't connect [This was fixed by implementing 'embed' within the url] however, the youtube media looks longer in length when the window is shrunk.
+
+**Commits** - Whilst coding the developer had missed the important action of committing codes whilst building the webpage, when making small and substantial changes.
+
+**Repository and Workspaces** - The developer had set up their workspaces incorrectly, only realising last minute as Gitpod began asking for billing information. The developer contacted tutor support and they helped carry the workspaces over however, due to the codes not being pushed even though they were committed, the repository didnt reflect the pages and files. To tackle this, the developer had to rewrite the code in parts and make sure to commit and push regularly to make it reflect into the new repository.
+
+**Readme Files** - Upon writing the read.me file, the developer started editing the read.me through the repository, which caused conflict between the workspace and repository as it didnt allow to git push the work done. This was fixed with the help of a mentor.
+
+[Back to top ⇧](#Dileitte)
+
+## Technologies Used
+### Main Languages Used
+- [HTML5](https://en.wikipedia.org/wiki/HTML5 "Link to HTML Wiki")
+- [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets "Link to CSS Wiki")
+
+
+### Frameworks, Libraries & Programs Used
+- [Google Fonts](https://fonts.google.com/ "Link to Google Fonts")
+    - Google fonts was used to import the fonts "Roboto", "Lato" and "Montserrat" into the style.css file. These fonts were used throughout the project.
+- [Font Awesome](https://fontawesome.com/ "Link to FontAwesome")
+     - Font Awesome was used on all pages throughout the website to import icons (e.g. social media icons) for UX purposes.
+- [Git](https://git-scm.com/ "Link to Git homepage")
+     - Git was used for version control by utilising the GitPod terminal to commit to Git and push to GitHub.
+- [GitHub](https://github.com/ "Link to GitHub")
+     - GitHub was used to store the project after pushing
+- [Balsamiq](http://balsamiq/cloud/ "Link to Balsamiq Homepage")
+     - Balsamiq was used to create wireframes during the design phase of the project. 
+
+[Back to top ⇧](#Dileitte)
+
+## Testing 
+----------------------------
+
+## Deployment
+
+This project was developed using [Gitpod](https://www.gitpod.io/ "Link to Gitpod site"), committed to git and pushed to GitHub using the computer terminal.
+
