@@ -236,5 +236,5 @@ To deploy this page to GitHub Pages from its GitHub repository, the following st
 ## Credits 
 - I would like to thank Emma Charles-Wilson for the help on some of the codes and design bugs and also the bug fix for the youtube video.
 - I would like to thank Harry Dhillon for his expert skills, helping with the larger issues faced within this Milestone Project, showing patience and teaching along the way.
-- I would like to that Code Institute for the extensive and descriptive material 
+- I would like to that Code Institute for the extensive and descriptive material that has helped me complete my first project.
 - I would like to thank my friends and family for providing insite into how and if the website would work for them and if the content is clear.  
