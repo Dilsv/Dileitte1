@@ -284,6 +284,74 @@ input[type="button"].fcf-btn-block {
     font-family: "Vollkorn", sans-serif;
 }
 
+/* Centered text */
+.centered {
+    font-family: "Satisfy", sans-serif;
+    font-size: 600%;
+    text-align: center;
+    color: #F7f7f7;
+    position: absolute;
+    margin-top: 30px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-shadow:
+        0.01em 0 #9d8e77,
+        0 0.01em #9d8e77,
+        -0.01em 0 #9d8e77,
+        0 -0.01em #9d8e77;
+}
+  
+  /* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* Event page */
+
+.container {
+    position: relative;
+    color: white;
+    padding-top: 100px;
+    padding-right: 100px;
+    padding-left: 100px;
+}
+
+.container img {
+    opacity: 0.6;
+    border: 5px solid #9d8e77;
+}
+
+
+/* Centered text */
+.centered {
+    font-family: "Satisfy", sans-serif;
+    font-size: 600%;
+    text-align: center;
+    color: #1a1e02;
+    position: absolute;
+    margin-top: 30px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-shadow:
+        0.02em 0 #9d8e77,
+        0 0.01em #9d8e77,
+        -0.01em 0 #9d8e77,
+        0 -0.01em #9d8e77;
+}
+  
+  /* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+
+
 /* footer */
 
 footer {
