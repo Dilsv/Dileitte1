@@ -130,19 +130,23 @@ The [W3C Validator](https://validator.w3.org/) service was used to validate the 
 
 - Home Pgae 
 
-     ![Style sheet validation results](assets/readme-files/)
+     ![Style sheet validation results](assets/readme-files/css-index.png)
 
-- Protective Styles Page 
+- Events Page 
 
-     ![Style sheet validation results](assets/readme-files/protective-validator.png)
+     ![Style sheet validation results](assets/readme-files/css-events.png)
 
-- Regimen Page 
+- Flowers Page 
 
-     ![Style sheet validation results](assets/readme-files/regimen-validator.png)
+     ![Style sheet validation results](assets/readme-files/css-flowers.png)
 
 - Contact Us Page 
 
-     ![Style sheet validation results](assets/readme-files/contact-validator.png)
+     ![Style sheet validation results](assets/readme-files/css-contact.png)
+
+- Confirmation Page
+     
+     ![Confirmation Page validation results](assets/readme-files/css-submit.png)
 
 ### Browser Validation
 - Chrome - [test image](assets/readme-files/chrome.png)
@@ -153,10 +157,10 @@ The [W3C Validator](https://validator.w3.org/) service was used to validate the 
 Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues. Their helpful advice throughout the process led to many UX changes in order to create a better experience. 
 
 It was through this testing that the following changes were made:
-- Change the home image for mobile device so that the image fit and had a high resolution.
-- Increase font size for desktop view for easy reading.
-- Lighten background colour slightly for easy readability. 
+- Change the opacity of the images in Events Page to enhance readability.
+- Added a Confirmation Page once contact information is shared.
+- Changed font on Events Page. 
 
-[Back to top ⇧](#Discover3c---Testing)
+[Back to top ⇧](#Dileitte---Testing)
 
 ***
