@@ -2,9 +2,9 @@
 
 [Main README.md file](README.md)
 
-[View live project]()
+[View live project](https://dilsv.github.io/Dileitte1/)
 
-[View website in GitHub Pages]()
+[View website in GitHub Pages](https://dilsv.github.io/Dileitte1/)
 
 ***
 ## Table of contents
@@ -20,41 +20,41 @@
 
 ## Testing User Stories
 
-#### Someone with 3c hair:
-1. As someone with 3c hair I want to easily navigate through the website.
+#### Someone with interest on floristry or flowers:
+1. As someone with interest in flowers I want to easily navigate through the website.
 
      - The navigation bar is clearly defined and easily navigable for users to find and use.
      - The logo image on the top left of each page leads users back to the home page.
      - The footer menu is easy to use with appropriate icons for easy identification.
 
-2. As someone with 3c hair, I want a clear guide to identify my hair type.
+2. As someone with interest in flowers, I want a clear guide to identify what flowers are featured.
 
-     - The 'Home' page clearly identifies what 3c hair is and looks like. 
+     - The 'Home' page clearly identifies what the business offers and features an About Us introduction and Care Instructions paragraph with media. 
      - The 'Home' page also includes imagery to support this content.
 
-3. As someone with 3c hair, I want to be able to view options for my hair.
+3. As someone with interest in flowers, I want to be able to view options of different flowers and bouquets.
 
-     - The 'Protective Styles' page includes multiple styles with clear information on each one.
-     - The 'Protective Styles' page also includes imagery to support this content. 
+     - The 'Flowers' page includes multiple bouquets with alternate text for an image on each one.
+     - The 'Flowers' page also includes imagery to support this content. 
 
-4. As someone with 3c hair, I want information that enables me to manage my hair effectively, including product suggestions. 
+4. As someone with an interest in flowers, I want information that enables me to manage my hair effectively, including product suggestions. 
 
-     - The 'Regiment' page includes a video that explains exactly how to wash your hair. 
-     - The 'Regiment' page has a list of steps to support the video in how to wash your hair. 
-     - The 'Regiment' page also includes a list of products that the website host personally uses with supporting text.
+     - The 'Events' page includes visual imagery of supporting content. 
+     - The 'Events' page has a list of three examples of the services provided. 
+     - The 'Events' page also includes text on the photos.
 
-#### Friends or parents of those with 3c hair:
-1. As a friend or parent of someone with 3c hair, I want to easily navigate through the website to find the relevant content. 
+#### Friends or parents of those who have interests in flowers:
+1. As a friend or parent of someone who has a liking for flowers, I want to easily navigate through the website to find the relevant content. 
 
      - The menu items are clear and easy to understand allowing the user to easily navigate through the website. 
 
-2. As a friend or parent of someone with 3c hair, I want to learn how to manage 3c hair.
+2. As a friend or parent of someone who likes flowers, I want to learn how to care for flowers upon receiving them.
 
      - The supporting text and videography used on the Regiment page is clear and easy to understand and impliment. 
 
-3. As a friend or parent of someone with 3c hair, I want to learn what products to use on 3c hair. 
+3. As a friend or parent of someone who likes flowers, I want to learn what flowers complement eachother. 
 
-     - The Regiment page includes a list of products recommended for 3c hair.
+     - The Flowers page includes a list of recommended flowers that compliment eachother in a mix of different bouquets.
      
 
 [Back to top ⇧](#Dileitte---Testing)
