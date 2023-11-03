@@ -83,40 +83,40 @@ Manual testing was conducted on the following elements of the [Home Page](index.
 ### Events Page 
 Manual testing was conducted on the following elements of the [Events Page](events.html):
 
-- Clicking on the video will play the video, and the user will get the option to play the video from YouTube directly 
+- Clicking on the social media links will take the user to the social media pages, and the user will get the option to sign into the websites directly.
 
      ![Social Media links](assets/readme-files/social-links.png)
 
 - On mobile device, product suggestion images should collapse into a block of four, two images on either row for UX purposes
 
-     ![Proudct Suggestion Images responsiveness](assets/readme-files/product-responsiveness.png)
+     ![Social Media Links' responsiveness](assets/readme-files/social-r.png)
 
 - On mobile device, images and text should decrease in size and padding should decrease allowing more space for content
 
-     ![Regimen Page responsiveness](assets/readme-files/regimen-responsiveness.png)
+     ![Flower Page responsiveness](assets/readme-files/mob-view-f.png)
 
 ### Contact Us Page 
 Manual testing was conducted on the following elements of the [Contact Us Page](contact.html):
 
-- Clicking on the logo on the top left of the page will return the user to the Home Page 
+- Clicking on the logo on the top center of the page will return the user to the Home Page 
 
-     ![Return to Home Page](assets/readme-files/homepage_SparkVideo.gif)
+     ![Contact Us Page](assets/readme-files/mob-view.png)
 
 - Form will prompt the user to fill out each input field or the form won't submit 
 
-     ![Contact Us Form input field](assets/readme-files/contact-field.png)
+     ![Contact Us Form input field](assets/readme-files/name-validation.png)
 
 - Minimum of 5 charcaters will have to be entered or the form won't submit 
 
-     ![Contact Us Form input field minimun character length](assets/readme-files/min-character.png)
+     ![Contact Us Form input field minimun character length](assets/readme-files/msg-validation.png)
 
 - On submitted the form the page will refresh 
 
-     ![Contact Form refresh](assets/readme-files/contact_SparkVideo.gif)
+     ![Contact Form refresh](assets/readme-files/submit.html)
 
 - On mobile device, the form will increase in width to fill up the page 
 
-     ![Contact Us Form responsiveness](assets/readme-files/contact-responsiveness.png)
+     ![Contact Us Form responsiveness](assets/readme-files/mob-view-c.png)
 
 [Back to top ⇧](#Kryan-Live---Testing)
 
@@ -130,7 +130,7 @@ The [W3C Validator](https://validator.w3.org/) service was used to validate the 
 
 - Home Pgae 
 
-     ![Style sheet validation results](assets/readme-files/index-validator.png)
+     ![Style sheet validation results](assets/readme-files/)
 
 - Protective Styles Page 
 
