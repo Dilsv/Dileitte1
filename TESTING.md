@@ -54,7 +54,7 @@
 
 3. As a friend or parent of someone who likes flowers, I want to learn what flowers complement eachother. 
 
-     - The Flowers page includes a list of recommended flowers that compliment eachother in a mix of different bouquets.
+     - The Flowers page includes a list of recommended flowers that compliment eachother in a mix of different bouquets .
      
 
 [Back to top ⇧](#Dileitte---Testing)
@@ -64,29 +64,28 @@
 ### Home Page
 Manual testing was conducted on the following elements of the [Home Page](index.html):
 
+[iPad View Events Image](assets/readme-files/ipad-view-e)
+[iPad View Flower Image](assets/readme-files/ipad-view-f)
+[Mob View Contact Us Image](assets/readme-files/mob-view-c)
+[Mob View Events Image](assets/readme-files/mob-view-e)
+[Mob View Flowers Image](assets/readme-files/mob-view-f)
+[Mob View Home Page Image](assets/readme-files/mob-view-m)
 
 
-### Protective Styles Page 
-Manual testing was conducted on the following elements of the [Protective Styles Page](protective.html):
 
-- Clicking the logo on the top left of the page will return the user to the Home Page 
-
-     ![Return to Home Page](assets/readme-files/homepage_SparkVideo.gif)
+### Home Page
+Manual testing was conducted on the following elements of the [Home Page](index.html):
 
 - On mobile device, images and text should decrease in size and padding should decrease allowing more space for content 
 
-     ![Protective Styles Page responsiveness](assets/readme-files/ps-responsiveness.png)
+     ![Mob View Image](assets/readme-files/mob-view)
 
-### Regimen Page 
-Manual testing was conducted on the following elements of the [Regimen Page](regimen.html):
-
-- Clicking on the logo on the top left of the page will return the user to the Home Page 
-
-     ![Return to Home Page](assets/readme-files/homepage_SparkVideo.gif)
+### Events Page 
+Manual testing was conducted on the following elements of the [Events Page](events.html):
 
 - Clicking on the video will play the video, and the user will get the option to play the video from YouTube directly 
 
-     ![YouTube video](assets/readme-files/youtube_SparkVideo.gif)
+     ![Social Media links](assets/readme-files/social-links.png)
 
 - On mobile device, product suggestion images should collapse into a block of four, two images on either row for UX purposes
 
