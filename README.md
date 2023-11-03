@@ -41,7 +41,6 @@ The main requirements were to make a responsive and static website with a minimu
 3. As a friend or parent of someone with an interest for botanics, I want to learn what product's go well together for complimentary purposes
 
 ### Development Planes
-
 In order to create a comprehensive and informative website, the developer researched what similar websites included, asked people with experience in botanics what would be helpful and looked into personal experience. 
 
 #### Strategy
@@ -142,7 +141,7 @@ Each page of the website features a consistent responsive navigational system:
 - On smaller screens, the navigation bar shrinks in size and remains in the center of the webpage.
 
 ### Testing 
-
+--------------------------------
 
 ### Existing Features
 - **Header Logo** - Appearing on every page for brand recognition. Clicking the logo will return the users to the home page, as expected.
@@ -156,3 +155,12 @@ Each page of the website features a consistent responsive navigational system:
 
 ### Features to include in the future
 
+- **Product Shop**
+     - **Feature** - Set up a section where the user is able to build personalised assortments.
+     - **Reason for not featuring in this release** - Need a wider variety of images or description of other flowers and plants.
+- **Product Information and pricing** 
+     - **Feature** - Set up a section beneath the flower images that provides pricing and the unique names of the bouquets.
+     - **Reasons for not featuring in this release** - Need a detailed description for each flower featured in the bouquets as well as average pricing for specific styles.
+- **Events Page**
+     - **Feature** - Set up a page that offers a list of events the business caters for.
+     - **Reasons for not featuring in this release** - Need a lot more visual aid to show examples of events and flower assortments for each event offered. To do this the developer needed to source pictures of multiple event photos from porfessional websites to add.
