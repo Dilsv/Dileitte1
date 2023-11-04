@@ -1,6 +1,6 @@
 # Dileitte - Testing 
 
-[Main README.md file](README.md)
+[Main TESTING.md file](TESTING.md)
 
 [View live project](https://dilsv.github.io/Dileitte1/)
 
