@@ -186,11 +186,11 @@ Each page of the website features a consistent responsive navigational system:
      ## Issues and Bugs 
 The developer ran into a number of issues during the development of the websites, with the noteworthy ones listed below, along with solutions or ideas to implement in the future.
 
-**Images Bug** - An inconsistency was detected later on with the images. On the page view some images were larger than others and weren't inline with eachother, making it less consistent. This wasn't solved as the images were different sizes by default. The solution to this is to keep images used the same size throughout to avoid incosistency.
+**Images Bug** - An inconsistency was detected later on with the images. On the page view some images were larger than others and weren't inline with eachother, making it less consistent. This wasn't solved as the images were different sizes by default. The solution to this is to keep images used the same size throughout to avoid incosistency which have been achieved for this project.
 
-**Social Links footer bug** - A bug was detected when adding the footer to the contact us page anf flowers page. The footer (social media icons) were inside the contact us form. This was solved by finding that there was a missing </div> that was causing the footer to be picked up in the body of the contact us form and adding </div> in the appropriate place. 
+**Social Links footer bug** - A bug was detected when adding the footer to the contact us page anf flowers page. The footer (social media icons) were inside the contact us form. This was solved by finding that there was a missing </div> that was causing the footer to be picked up in the body of the contact us form and adding </div> in the appropriate place.
 
-**Footer Issue on all pages** - A bug was detected when implementing the footer to be used for all pages. When looking on the ports the footer look disorientated and dimentions didn't reflect the codes in flowers.html and contact.html. [A `media query` was added however, it didnt give the desired result therefore the developer removed the footer colour in order to fix the bug]
+**Footer Issue on all pages** - A bug was detected when implementing the footer to be used for all pages. When looking on the ports the footer look disorientated and dimentions didn't reflect the codes in flowers.html and contact.html. [A `media query` was added however, it didn't give the desired result therefore the developer removed the footer colour in order to resolve the bug]
 
 **Contact Us form bug** - A bug was detected when testing the contact us form. You were able to put in one letter on the name field and you were also able to adjust the size of the comment box. This was fixed by adding a minimum character of 5 to the input fields giving the comment section a `resize: none;`.
 
@@ -200,9 +200,11 @@ The developer ran into a number of issues during the development of the websites
 
 **Repository and Workspaces** - The developer had set up their workspaces incorrectly, only realising last minute as Gitpod began asking for billing information. The developer contacted tutor support and they helped carry the workspaces over however, due to the codes not being pushed even though they were committed, the repository didnt reflect the pages and files. To tackle this, the developer had to rewrite the code in parts and make sure to commit and push regularly to make it reflect into the new repository.
 
-**Readme Files** - Upon writing the read.me file, the developer started editing the read.me through the repository, which caused conflict between the workspace and repository as it didnt allow to git push the work done. This was fixed with the help of a mentor.
+**Readme Files** - Upon writing the read.me file, the developer started editing the read.me through the repository, which caused conflict between the workspace and repository as it didnt allow to git push the work done. This was resolved with the help of a mentor.
 
-**Responsiveness** - The devloper has managed to make the website responsive for smaller and larger screens however, upon minimising and expanding the screen the pictures become skewed and disorientated.
+**Responsiveness** - The devloper has managed to make the website responsive for smaller and larger screens however, upon minimising and expanding the screen the pictures become skewed and disorientated. The devloper tried to resolve this however couldn't figure out the appropriate codes.
+
+**Using large codes** - - The developer used a large piece of coding in the css file for the contact form. The intention was to change most of the CSS code ID's however, which couldn't be done by the developer due to prioritising other work that held hiher significance. The link is below under Main Languages Used section.
 
 [Back to top ⇧](#Dileitte)
 
@@ -210,6 +212,7 @@ The developer ran into a number of issues during the development of the websites
 ### Main Languages Used
 - [HTML5](https://en.wikipedia.org/wiki/HTML5 "Link to HTML Wiki")
 - [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets "Link to CSS Wiki")
+- [Majestic Form](https://www.majesticform.com/form-guides/html-email-form#htmlform "Link to Majestic Form)
 
 
 ### Frameworks, Libraries & Programs Used
@@ -298,7 +301,7 @@ Further reading and troubleshooting on cloning a repository from GitHub [here](h
 The developer consulted multiple sites in order to better understand the code they were trying to implement. For code that was copied and edited, the developer made sure to reference this with the code. The following sites were used on a more regular basis:
 - [W3Schools](https://www.w3schools.com/ "Link to W3Schools page")
 - [Dileitte](https://8000-dilsv-dileitte-m4sl1micfeh.ws-eu105.gitpod.io/index.html "Link to Discover page")
-- [W3C Markup Validation Service] (https://validator.w3.org/#validate_by_input "Link to W3C Validator page)
+- [W3C Markup Validation Service] (https://validator.w3.org/#validate_by_input "Link to W3C Validator page) 
 
 ## Acknowledgements
 
