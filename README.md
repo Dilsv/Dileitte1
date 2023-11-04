@@ -1,4 +1,4 @@
-# Dileitte - A milstone Project
+# Dileitte - A Milestone Project
 
 ![Dileitte Mockup Images](assets/readme-files/mock-up.png)
 
